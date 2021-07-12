@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/vinayb004/Statistical_Calculator.svg?branch=main)](https://travis-ci.com/vinayb004/Statistical_Calculator)
+[![Build Status](https://travis-ci.com/vinayb004/Statistical_Calculator.svg?branch=master)](https://travis-ci.com/vinayb004/Statistical_Calculator)
 
 # Statistical-calculator
 
