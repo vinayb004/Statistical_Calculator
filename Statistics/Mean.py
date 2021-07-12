@@ -1,7 +1,6 @@
 from Calculator.Addition import addition
 from Calculator.Division import division
 
-
 def get_mean(data):
     num_values = len(data)
     total = 0
