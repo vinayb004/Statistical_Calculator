@@ -1,6 +1,5 @@
 import random
 
-
 class RandomGenerator:
     result = 0
 
